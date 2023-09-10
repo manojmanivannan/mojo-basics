@@ -15,6 +15,7 @@ fn create_matrix(rows: Int, cols: Int) raises -> PythonObject:
     return matrix
 
 fn main():
+    # simple function
     let x = add(1, 2)
     print("x:", x)
 
